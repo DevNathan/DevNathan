@@ -1,14 +1,22 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sein's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dev%20Nathan%20Here!&fontSize=60"  style ="width : 1000px; height:400px"/>
 </div>
 
 
 ## Profile
-👩 조남호 <br>
-👶 2000.02.02 <br>
-📞 010-3631-6448 <br>
+🧑 조남호 | Nathan Cho <br>
+👶 02.02.2000 <br>
+📞 &lt;KR&gt;+82 10-3631-6448 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:devnamho0910@gmail.com) <span><a href="https://www.notion.so/dev-namho"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+📫 E-mail <br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:devnamho0910@gmail.com) devnamho0910@gmail.com - ❗ Business E-mail <br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:cnh1234578@gmail.com) cnh1234578@gmail.com - 💌 General E-mail
+<br>
+<span>
+  <a href="https://www.notion.so/dev-namho">
+  <img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/>
+  </a>
+</span>
 
 
 
