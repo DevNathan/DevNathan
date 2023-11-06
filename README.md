@@ -14,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:cnh1234578@gmail.com) cnh1234578@gmail.com - 💌 General E-mail
 <br><br>
 <span>
-  <a href="https://www.notion.so/dev-namho">
+  <a href="https://www.notion.so/dev-namho/17976ccd9d904252b4b2f6aec5e3499d?pvs=4">
   <img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/>
   </a>
 </span>
