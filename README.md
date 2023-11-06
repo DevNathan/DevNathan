@@ -8,7 +8,7 @@
 👶 2000.02.02 <br>
 📞 010-3631-6448 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:devnamho0910@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/dev-namho"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:devnamho0910@gmail.com) <span><a href="https://www.notion.so/dev-namho"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
