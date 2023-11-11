@@ -9,7 +9,7 @@
 📞 <img src="https://github.com/DevNathan/DevNathan/assets/142222091/7c138722-a177-4ed2-888a-362530edad54" style="width: 12px"> +82 10-3631-6448 <br>
 
 📫 E-mail <br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:devnamho0910@gmail.com) devnamho0910@gmail.com - ❗ Business E-mail 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail%20For%20Business&logoColor=white&link=mailto:devnamho0910@gmail.com)](mailto:devnamho0910@gmail.com) ❗ Business E-mail 
 <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:cnh1234578@gmail.com) cnh1234578@gmail.com - 💌 General E-mail
 <br><br>
