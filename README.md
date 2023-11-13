@@ -15,7 +15,8 @@
 <br><br>
 <span><a href="https://dev-namho.notion.site/17976ccd9d904252b4b2f6aec5e3499d?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a></span>
 <br><br>
-👨‍💻I'm now learning ... <span><img src="https://img.shields.io/badge/-Security-green"/></span> and 
+👨‍💻I'm now learning ... <span><img src="https://img.shields.io/badge/-Security-green"/></span> 
+and ... <span><img src="https://img.shields.io/badge/JPA-6DB33F?style=round-square&logo=Spring&logoColor=black"/></span>
 
 
 
