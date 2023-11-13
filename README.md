@@ -11,7 +11,7 @@
 📫 E-mail <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail%20For%20Business-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devnamho0910@gmail.com)](mailto:devnamho0910@gmail.com) 🏬 Business E-mail 
 <br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail%20For%20General-white?style=flat-square&logo=Gmail&logoColor=d14836&link=mailto:seinee114@gmail.com)](mailto:cnh1234578@gmail.com) 💌 General E-mail
+[![Gmail Badge](https://img.shields.io/badge/Gmail%20For%20General%20-white?style=flat-square&logo=Gmail&logoColor=d14836&link=mailto:seinee114@gmail.com)](mailto:cnh1234578@gmail.com) 💌 General E-mail
 <br><br>
 <span><a href="https://dev-namho.notion.site/17976ccd9d904252b4b2f6aec5e3499d?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a></span>
 <br><br>
