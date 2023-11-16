@@ -1,6 +1,7 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HI!%20Dev%20Nathan%20Here!&fontSize=60"  style ="width : 1000px; height:400px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HI!%20Dev%20Nathan%20Here!&fontSize=60&fontAlignY=45"  style ="width : 1000px; height:400px"/>
 </div>
+
 
 
 ## Profile
