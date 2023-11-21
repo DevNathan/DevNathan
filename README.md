@@ -24,7 +24,7 @@ and ... <span><img src="https://img.shields.io/badge/JPA-6DB33F?style=round-squa
 
 <br>
 
-## Skills
+## 🛠️ Skills
 
 | Back-End | Front-End | Database | IDE |
 | --- | --- | --- | --- |
