@@ -17,6 +17,7 @@
 <span><a href="https://dev-namho.notion.site/17976ccd9d904252b4b2f6aec5e3499d?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a></span>
 <br><br>
 👨‍💻I'm now learning ... <span><img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=linux&logoColor=black"/></span><br>
+and ... <span><img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=white"/></span><br>
 and ... <span><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=round-square&logo=springsecurity&logoColor=white"/></span>
 
 <br>
