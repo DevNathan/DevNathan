@@ -15,8 +15,8 @@
 
 ## 💡 현재 학습 중
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=linux&logoColor=black)  
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=round-square&logo=springsecurity&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=round-square&logo=next.js&logoColor=white)
+📘 정보 처리 기사 준비중
 
 > 주석을 잘 다는 질 좋은 개발자가 되자...
 
