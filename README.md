@@ -10,6 +10,7 @@
 📬 [Business E-mail](mailto:devnamho0910@gmail.com) / [General E-mail](mailto:cnh1234578@gmail.com)  
 📝 [Codemasterpiece 블로그](https://www.codemasterpiece.com)  
 📒 [Notion 포트폴리오](https://dev-namho.notion.site/17976ccd9d904252b4b2f6aec5e3499d?pvs=4)
+✏️ [solved.ac](https://solved.ac/en/profile/devnamho0910)
 
 ---
 
