@@ -14,9 +14,6 @@
   <!-- Quick badges -->
 
   <p>
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevNathan&count_bg=%233B82F6&title_bg=%23111827&icon=github.svg&icon_color=%23ffffff&title=visits&edge_flat=false"/>
-    </a>
     <a href="mailto:devnamho0910@gmail.com">
       <img src="https://img.shields.io/badge/Business%20Email-111827?logo=gmail"/>
     </a>
