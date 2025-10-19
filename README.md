@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 Profile
+## Profile
 
 **조남호 | Nathan Cho**<br>
 🗓️ 2000.02.02<br>
@@ -134,13 +134,6 @@
 * Express + Mongoose on Bun
 * AWS Infra as Code with Terraform (VPC/ALB/RDS in private subnets)
 * Kafka(스트림 처리) & Event‑driven Outbox 패턴 실전 적용
-
----
-
-## 📨 Contact
-
-* Email: [devnamho0910@gmail.com](mailto:devnamho0910@gmail.com) / [cnh1234578@gmail.com](mailto:cnh1234578@gmail.com)
-* Blog: [codemasterpiece.com](https://www.codemasterpiece.com)
 
 ---
 
