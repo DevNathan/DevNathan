@@ -41,7 +41,7 @@
 
 ---
 
-## ⚡ Focus Now
+## Focus Now
 
 * **Next.js** & **React** with shadcn/ui, React Query
 * **Spring Boot 3** + **Spring Security**, JPA/Query optimization
@@ -50,7 +50,7 @@
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | 자격증                      | 발급 기관              | 상태   | 취득 연도 |
 | ------------------------ | ------------------ | ---- | ----- |
@@ -59,7 +59,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 🚀 Representative Projects
+## Representative Projects
 
 | Project             | Brief                                                                               | Tech                                                                   |
 | ------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -101,7 +101,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="left">
 
@@ -120,7 +120,7 @@
 
 ---
 
-## 🧭 Values & Principles
+## Values & Principles
 
 * **Ownership** – 끝까지 책임지는 태도, 문제를 내 것으로 만든다.
 * **Clarity** – 주석/문서/커밋 메시지에 집요함.
@@ -129,7 +129,7 @@
 
 ---
 
-## 🎯 Currently Learning & Goals
+## Currently Learning & Goals
 
 * Express + Mongoose on Bun
 * AWS Infra as Code with Terraform (VPC/ALB/RDS in private subnets)
