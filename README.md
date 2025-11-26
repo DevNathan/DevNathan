@@ -93,7 +93,7 @@
 
 | Project             | Brief                                                                               | Tech                                                                   |
 | ------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Codemasterpiece** | 개인 기술 블로그이자 실제 서비스 중인 프로젝트. 정교한 파일 처리 시스템, 고가용성 구조 중심 설계. 사용자 인증은 있지만 RBAC 의미는 최소화. | Spring Boot · JPA · Mybatis · PostgreSQL · Redis · Next.js · shadcn/ui · Docker · AWS |
+| **Code Masterpiece** | 개인 기술 블로그이자 실제 서비스 중인 프로젝트. 정교한 파일 처리 시스템, 고가용성 구조 중심 설계. 사용자 인증은 있지만 RBAC 의미는 최소화. | Spring Boot · JPA · Mybatis · PostgreSQL · Redis · Next.js · shadcn/ui · Docker · AWS |
 | **BoardCraft**      | 실전형 게시판 플랫폼. RBAC, 감사로그, 어드민 대시보드, 프로메테우스 모니터링까지 완비된 엔터프라이즈 구조. | Spring Boot · JPA · Mybatis · MySQL · QueryDSL(대체 설계) · Thymeleaf · Prometheus     |
 | **CLI Toys**        | Zig와 Go로 만든 경량 CLI 유틸 모음.                                                           | Zig 0.13 · Go 1.22                                                     |
 
